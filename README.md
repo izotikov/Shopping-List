@@ -1,4 +1,4 @@
-
+Stack: React + TypeScript + MobX.
 
 ### `npm run`
 
